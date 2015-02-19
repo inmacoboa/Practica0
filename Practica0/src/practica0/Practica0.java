@@ -18,6 +18,7 @@ public class Practica0 {
         System.out.println("Hola GIT");
         System.out.println("Segunda linea en master");
         System.out.println("Tercera linea en master");
+        System.out.println("Tercera linea: idea loca");
     }
     
 }
